@@ -34,7 +34,7 @@ git --version
 
 结果如下
 
-<img src="C:\Users\月儿乖\AppData\Roaming\Typora\typora-user-images\image-20230914221409641.png" alt="image-20230914221409641" style="zoom:50%;" />
+![alt]("D:\Typora\文件\image-20230914221409641.png")
 
 <img src="C:\Users\月儿乖\AppData\Roaming\Typora\typora-user-images\image-20230914221345994.png" alt="image-20230914221345994" style="zoom:50%;" />
 
