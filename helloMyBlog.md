@@ -36,7 +36,7 @@ git --version
 
 <img src="image/1a.png" style="zoom:50%;" />
 
-## <img src="image/2a.png" style="zoom:50%;" />
+ <img src="image/2a.png" style="zoom:50%;" />
 
 首先，我打开官网https://github.com
 
